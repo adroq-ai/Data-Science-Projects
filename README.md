@@ -67,9 +67,9 @@ I’m a dual-degree student studying **Civil Engineering at the University of Ib
 
 ## 📬 Contact
 
-- GitHub: [AdMub](https://github.com/AdMub)
-- LinkedIn: [Mubarak Adisa](https://www.linkedin.com/in/mubarak-adisa-334a441b6/)
-- Email: admub465@gmail.com
+- GitHub: [adroq-ai](https://github.com/adroq-ai)
+- LinkedIn: [Roqeeb Adisa](https://www.linkedin.com/in/roqeeb-adisa-60786627b/)
+- Email: shehuroqeeb@gmail.com
 
 ---
 
