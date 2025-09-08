@@ -51,7 +51,7 @@ Welcome to my curated portfolio of end-to-end Data Science, Machine Learning, an
 ---
 
 ## ⚙️ Tech Stack & Tools
-- **Languages**: Python, Jupyter Notebooks
+- **Languages**: Python, Jupyter Notebooks, R
 - **ML Libraries**: scikit-learn, XGBoost, LightGBM, Ensemble tools, KMeans
 - **DL Frameworks**: TensorFlow, Keras
 - **Visualization**: Matplotlib, Seaborn
@@ -61,7 +61,11 @@ Welcome to my curated portfolio of end-to-end Data Science, Machine Learning, an
 ---
 
 ## 🧑‍💻 About Me
-I’m a dual-degree student studying **Civil Engineering at the University of Ibadan** and **Computer Science at the University of the People**, with strong interests in **AI, ML, Deep Learning, and Web3**. This repository is part of my practical journey toward becoming an expert in data-driven technology.
+I am  a statistician and data enthusiast with strong interest in ** AI, machine learning, deep learning, and data science**. I enjoy working across different fields including **health, agriculture, economics, and finance**, using data to solve real-world problems.
+
+💻 **Skills & Tools**: Python, R, SQL, Power BI, Scikit-learn, TensorFlow, PyTorch, Stata, SPSS.
+
+📌 On this GitHub, I share projects and experiments in ML, DL, statistics, and applied data science.
 
 ---
 
