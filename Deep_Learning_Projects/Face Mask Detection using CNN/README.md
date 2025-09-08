@@ -195,9 +195,9 @@ interface.launch()
 * **Web App:** Gradio  
 
 ## 📩 Connect & Collaborate
-🔗 **GitHub**: [AdMub](https://github.com/AdMub)  
-📧 **Email**: [admub465@gmail.com](mailto:admub465@gmail.com)  
-🚀 **LinkedIn**: [Mubarak Adisa](https://www.linkedin.com/in/mubarak-adisa-334a441b6/)  
+🔗 **GitHub**: [AdMub](https://github.com/adroq-ai)  
+📧 **Email**: [shehuroqeeb@gmail.com](mailto:shehuroqeeb@gmail.com)  
+🚀 **LinkedIn**: [Roqeeb Adisa](www.linkedin.com/in/roqeeb-adisa-60786627b)  
 
 ---
 
