@@ -61,9 +61,6 @@ These results provide insights for early detection and potential control of Park
 - Found strong correlations (> 0.8) among several features — risk of multicollinearity.
 - Example: `MDVP: Shimmer` correlated 0.99 with `MDVP: Shimmer (dB)`.
 
-**Figure 7:** Correlation Heatmap  
-<img width="3600" height="3000" alt="heatmap" src="https://github.com/user-attachments/assets/2f1f7c30-360b-44de-be07-ceb8f6c917c2" />
-
 ---
 
 ## 🏆 Feature Selection
@@ -159,7 +156,7 @@ This project is licensed under the MIT License.
 
 ## 📬 Contact
 **Your Name**  
-GitHub: [@adroq](https://github.com/adroq-ai)  
+GitHub: [Adroq](https://github.com/adroq-ai)  
 Email: shehuroqeeb@gmail.com
 
 
