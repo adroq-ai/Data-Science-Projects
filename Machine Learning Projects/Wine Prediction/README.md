@@ -50,22 +50,6 @@ This project predicts the quality of red wine based on its physicochemical prope
 
 ---
 
-## Installation
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/AdMub/Data-Science-Project.git
-   cd wine-quality-prediction
-   ```
-2. Install the required libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Launch the notebook:
-   ```bash
-   jupyter notebook
-   ```
-
 ---
 
 ## Project Structure
@@ -161,6 +145,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ### Contributors
 
-- [AdMub](https://github.com/AdMub)
+- [adroq-ai](https://github.com/adroq-ai)
 
 Feel free to contribute or raise an issue if you encounter any problems!
