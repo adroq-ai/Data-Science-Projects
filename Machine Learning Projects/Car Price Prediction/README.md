@@ -178,7 +178,7 @@ print(f"R-squared: {r2}, MAE: {mae}")
 ![Scatter Plot](https://github.com/user-attachments/assets/fbbac454-945d-42be-a9ca-34070723df79)
 </br>
 
-### Scatter Plot (Training Data):
+### Scatter Plot (Test Data):
 ![Scatter Plot](https://github.com/user-attachments/assets/2c5bb59a-1135-49e4-96b5-5382feacec9a)
 </br>
 
