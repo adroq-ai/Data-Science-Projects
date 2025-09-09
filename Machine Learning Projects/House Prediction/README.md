@@ -62,7 +62,7 @@ Clone the repository and install the required dependencies:
 
 ```bash
 # Clone the repository
-git clone https://github.com/AdMub/Data-Science-Project.git
+git clone https://github.com/adroq-ai/Data-Science-Project.git
 
 # Navigate to the project directory
 cd california-housing-prediction
