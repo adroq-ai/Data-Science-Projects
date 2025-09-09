@@ -134,7 +134,7 @@ interface.launch()
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AdMub/Data-Science-Project.git
+   git clone https://github.com/adroq-ai/Data-Science-Project.git
    ```
 2. Navigate to the project directory:
    ```bash
