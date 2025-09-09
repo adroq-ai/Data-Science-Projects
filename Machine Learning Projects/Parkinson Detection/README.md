@@ -160,6 +160,6 @@ This project is licensed under the MIT License.
 ## 📬 Contact
 **Your Name**  
 GitHub: [@adroq](https://github.com/adroq-ai)  
-Email: @example.com
+Email: shehuroqeeb@gmail.com
 
 
