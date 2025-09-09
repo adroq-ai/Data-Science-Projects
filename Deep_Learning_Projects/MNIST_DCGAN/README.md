@@ -90,7 +90,7 @@ The generator improves over time and produces increasingly realistic handwritten
 
 1. **Clone the repo**  
    ```bash
-   git clone https://github.com/AdMub/Data-Science-Project.git
+   git clone https://github.com/adroq-ai/Data-Science-Project.git
    cd Data-Science-Project/Deep_Learning_Projects/MNIST_DCGAN
    ```
 
@@ -115,13 +115,13 @@ The generator improves over time and produces increasingly realistic handwritten
 - [MNIST Dataset](https://www.kaggle.com/datasets/hojjatk/mnist-dataset)
 
 ## **🙋‍♂️ Author**
-Mubarak Adisa(AdMub)
+Roqeeb Adisa(adroq-ai)
 
-📧 admub465@gmail.com
+📧 shehuroqeeb@gmail.com
 
-🔗 [LinkedIn](https://www.linkedin.com/in/mubarak-adisa-334a441b6/)
+🔗 [LinkedIn](https://www.linkedin.com/in/roqeeb-adisa-60786627b)
 
-📂 [GitHub Portfolio](https://github.com/AdMub)
+📂 [GitHub Portfolio](https://github.com/adroq-ai)
 
 ## **🌟 Acknowledgements**
 Special thanks to the Sidhardhan, deep learning community and open-source contributors for enabling this educational project.
