@@ -50,14 +50,13 @@ To build a regression model that estimates house prices based on:
 
 ## 📁 Project Structure
 
-house_price_prediction.ipynb # Data cleaning and model training
-home_prices_model.pickle # Trained ML model
-columns.json # Feature information
-app.py # Flask web app
-index.html # Frontend page
-style.css # CSS styling
-script.js # JavaScript file
-
+- house_price_prediction.ipynb          # Data cleaning and model training
+- home_prices_model.pickle              # Trained ML model
+- columns.json                          # Feature information
+- app.py                                # Flask web app
+- index.html                            # Frontend page
+- style.css                             # CSS styling
+- script.js                              # JavaScript file
 
 ---
 
