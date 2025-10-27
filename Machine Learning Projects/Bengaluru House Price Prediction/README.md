@@ -70,17 +70,17 @@ python app.py
 ```
 
 
-Open your browser and go to http://127.0.0.1:5000/
-Enter property details and click Predict Price to get the result.
+- Open your browser and go to http://127.0.0.1:5000/
+- Enter property details and click Predict Price to get the result.
 
 
 🔍 **Key Insights**
-Location has the strongest effect on price.
-BHK and area show non-linear relationships with price.
-The model balances accuracy with interpretability.
+- Location has the strongest effect on price.
+- BHK and area show non-linear relationships with price.
+- The model balances accuracy with interpretability.
 
 
 👨‍💻 **Author**
-Roqeeb Adisa
-🎓 MSc. Statistics, University of Ibadan, Nigeria
-Shehuroqeeb@gmail.com
+- **Roqeeb ADISA**
+- 🎓 MSc. Statistics, University of Ibadan, Nigeria
+- shehuroqeeb@gmail.com
