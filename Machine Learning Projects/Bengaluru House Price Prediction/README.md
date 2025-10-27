@@ -50,16 +50,13 @@ To build a regression model that estimates house prices based on:
 
 ## 📁 Project Structure
 
-├── house_price_prediction.ipynb # Data cleaning and model training
-├── home_prices_model.pickle # Trained ML model
-├── columns.json # Feature information
-├── app.py # Flask web app
-├── templates/
-│ └── index.html # Frontend page
-├── static/
-│ ├── style.css # CSS styling
-│ └── script.js # JavaScript file
-└── README.md
+house_price_prediction.ipynb # Data cleaning and model training
+home_prices_model.pickle # Trained ML model
+columns.json # Feature information
+app.py # Flask web app
+index.html # Frontend page
+style.css # CSS styling
+script.js # JavaScript file
 
 
 ---
@@ -71,15 +68,20 @@ git clone https://github.com/your-github-username/Bengaluru-House-Price-Predicti
 cd Bengaluru-House-Price-Prediction
 pip install -r requirements.txt
 python app.py
+```
+
 
 Open your browser and go to http://127.0.0.1:5000/
 Enter property details and click Predict Price to get the result.
 
-🔍 Key Insights
+
+🔍 **Key Insights**
 Location has the strongest effect on price.
 BHK and area show non-linear relationships with price.
 The model balances accuracy with interpretability.
 
-👨‍💻 Author
+
+👨‍💻 **Author**
 Roqeeb Adisa
 🎓 MSc. Statistics, University of Ibadan, Nigeria
+Shehuroqeeb@gmail.com
